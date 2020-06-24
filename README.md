@@ -1,4 +1,7 @@
-# RUDA implemneted in PyTorch
+# RUDA implemented in PyTorch
+To appear at ECML-PKDD2020 https://ecmlpkdd2020.net/
+
+Based on implementation from https://github.com/thuml/CDAN
 
 ## Folders
 - pytorch (where code is run) 
@@ -15,12 +18,11 @@
 - PIL
 
 ## Data
-Digits : https://drive.google.com/file/d/1Y0wT_ElbDcnFxtu25MB74npURwwijEdT/view?usp=drive_open
-Office31 : https://people.eecs.berkeley.edu/~jhoffman/domainadapt/
-Office-Home : http://hemanthdv.org/OfficeHome-Dataset/
+- Digits : https://drive.google.com/file/d/1Y0wT_ElbDcnFxtu25MB74npURwwijEdT/view?usp=drive_open
+- Office31 : https://people.eecs.berkeley.edu/~jhoffman/domainadapt/
+- Office-Home : http://hemanthdv.org/OfficeHome-Dataset/
 
 ## Training
-To start training: 
 python train_image_submission.py
 
 Details about arguments: python train_image_submission.py -h
