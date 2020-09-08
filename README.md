@@ -1,5 +1,6 @@
 # RUDA implemented in PyTorch
-To appear at ECML-PKDD2020 https://ecmlpkdd2020.net/
+To appear at ECML-PKDD2020 https://ecmlpkdd2020.net/ 
+(Best (student) ML paper award)
 
 Based on implementation from https://github.com/thuml/CDAN
 
