@@ -4,10 +4,10 @@ To appear at ECML-PKDD2020 https://ecmlpkdd2020.net/
 Based on implementation from https://github.com/thuml/CDAN
 
 ## Folders
-- pytorch (where code is run) 
+- pytorch (where .py are stored) 
 - data (where data is stored) 
 	- 1 folder for each dataset.
-	- txt file with path to images are stored here.
+	- .txt file with path to images are stored here.
 
 ## Prerequisites
 - PyTorch >= 0.4.0 (with suitable CUDA and CuDNN version)
